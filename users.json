@@ -1,0 +1,26 @@
+[
+  {
+    "nombre_usuario": "Juan Pérez",
+    "cantidad_de_platos": 3,
+    "costo": 13,
+    "pago": ""
+  },
+  {
+    "nombre_usuario": "Ana Gómez",
+    "cantidad_de_platos": 2,
+    "costo": 13,
+    "pago": "Efe"
+  },
+  {
+    "nombre_usuario": "Thalia",
+    "cantidad_de_platos": 1,
+    "costo": 13,
+    "pago": "Efe"
+  },
+  {
+    "nombre_usuario": "Joel Vilca - Adicional",
+    "cantidad_de_platos": 1,
+    "costo": 13,
+    "pago": "Yape"
+  }
+]
